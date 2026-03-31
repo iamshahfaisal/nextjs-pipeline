@@ -9,7 +9,7 @@ class AboutPage extends Component {
         <Header />
         <section>
           <Link href="/">
-            <a>Go to Home</a>
+            <a>Go to Home Testing</a>
           </Link>
         </section>
       </main>
