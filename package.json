@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "next build && next export -o dist"
+    "build": "next build"
   },
   "dependencies": {
     "next": "latest",
