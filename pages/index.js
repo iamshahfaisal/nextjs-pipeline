@@ -6,7 +6,7 @@ export default () => (
     <Header />
     <section>
       <Link href="/about">
-        <a>Go to About Me Hello Testing</a>
+        <a>Go to About Me Hello Testing Abc</a>
       </Link>
     </section>
   </main>
